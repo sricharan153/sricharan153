@@ -42,16 +42,7 @@ Welcome to my GitHub profile! I'm passionate about building scalable web applica
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sricharan153&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sricharan153&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
-## 🏆 Featured Projects
+ ## 🏆 Fatured Projects
 
 - **E-Commerce Website** - A full-featured e-commerce platform built with React and Node.js
 - **Travel Web Sites** - Interactive travel booking platform with dynamic UI
