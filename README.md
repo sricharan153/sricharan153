@@ -61,11 +61,7 @@ Welcome to my GitHub profile! I'm passionate about building scalable web applica
 
 ---
 
-## 📈 Contribution Graph
 
-[![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=sricharan153&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
 
 ### 💼 Open to Opportunities
 
